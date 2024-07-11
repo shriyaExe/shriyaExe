@@ -2,7 +2,7 @@
 class Developer:
     def __init__(self):
         self.skills = [
-            "Python Developer",
+            "Python",
             "Django",
             "PostgreSQL",
             "AWS",
